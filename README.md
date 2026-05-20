@@ -1911,6 +1911,7 @@ node --version                     # Must be 22+
 - [eesel.ai Pricing Guide](https://www.eesel.ai/blog/openclaw-ai-pricing)
 - [Deploy Cost Guide: $0-8/month](https://yu-wenhao.com/en/blog/2026-02-01-openclaw-deploy-cost-guide/)
 - [Cost Governor](https://github.com/AtlasPA/openclaw-cost-governor) - First OpenClaw skill with x402 agent payments. Track LLM costs in real-time, enforce budget limits with circuit breakers, enable AI agents to autonomously pay for Pro features (0.5 USDT/month).
+- [llm-prices](https://github.com/benbencodes/llm-prices) - CLI and Python library to compare LLM API costs across 273 models and 44 providers (OpenAI, Anthropic, Google, Mistral, DeepSeek, xAI, and more). Zero-dependency, no API key required — run  to find cheapest model for any workload.
 
 ### Monthly Budget Targets
 
